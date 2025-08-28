@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tania Regina Santos (TANIARESENDE)
+# 👋 Hi, I'm Tania Resende (TANIARESENDE)
 
 ## 🚀 Data Scientist | Data Analyst | Data Engineer
 
